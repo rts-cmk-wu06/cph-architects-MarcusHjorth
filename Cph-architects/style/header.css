@@ -1,0 +1,12 @@
+header {
+    background-color: #92B8B7;
+    padding: 5px;
+
+}
+
+.header__h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin: 5px;
+    width: 250px;
+}
